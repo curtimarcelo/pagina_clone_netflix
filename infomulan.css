@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(342deg, rgba(0,0,0,0.6278886554621849) 31%, rgba(214,118,28,0.5998774509803921) 57%, rgba(245,0,0,0.5466561624649859) 86%), url(imgs/Mulan.jpg);
+    background-size: cover;
+    
+}
+
+.name-producao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.producao h3{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: flex-start;
+    align-items: center;
+    justify-content: space-around;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+}
+
+.photo{
+    box-sizing: 50%;
+    display: flex;
+    flex-direction: flex-start;
+    align-items: center;
+    justify-content: space-between;
+
+}

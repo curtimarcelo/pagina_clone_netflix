@@ -105,6 +105,15 @@ header nav a:hover{
 
 /*Tamanho das imagens posters*/
 
+.filmes-destaques{
+    margin-top: 15px; 
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    text-shadow: 1px 1px 3px #fff;
+
+}
+
 .box-filme{
     height: 100%;
     width: 100%;
@@ -113,6 +122,7 @@ header nav a:hover{
 
 .carousel-filmes{
     margin-top: 5px;
+    background-image: url("/imgs/netflix-background.jpg");
 }
 
 
